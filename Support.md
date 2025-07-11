@@ -40,6 +40,6 @@ A: Your exam history is saved on your device. If you have recently reinstalled t
 
 If you have any other questions, feedback, or need further assistance, please do not hesitate to contact us.
 
-**Email:** [Your Support Email Here]
+**Email:** `developer.dkt@gmail.com`
 
 We appreciate your feedback and will do our best to assist you as quickly as possible.
